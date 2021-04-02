@@ -1,3 +1,4 @@
 import os
 
-print("Hello World by Tahir")
+# Restored Hello world message
+print("Hello World")
