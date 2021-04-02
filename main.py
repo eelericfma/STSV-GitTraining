@@ -1,3 +1,3 @@
 import os
-# testing
-print("I am learning")
+# thinking
+print("is i am learning")
